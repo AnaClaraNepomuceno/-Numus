@@ -84,19 +84,21 @@ NUMUS/
 
 ## 🚀 Como Rodar o Projeto
 1️⃣ Clonar o repositório
-git clone https://github.com/seuusuario/numus.git
-cd numus
+git clone https://github.com/AnaClaraNepomuceno/-Numus
+
+```cd numus```
 
 2️⃣ Instalar dependências do Django
-pip install django
+
+```pip install django```
 
 3️⃣ Rodar o backend
-python manage.py runserver
+
+```python manage.py runserver```
 
 4️⃣ Visualizar o front-end
-
 Abra qualquer arquivo dentro de:
 
-frontend/pages/
+```frontend/pages/```
 
 
