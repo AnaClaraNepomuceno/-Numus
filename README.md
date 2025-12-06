@@ -1,2 +1,5 @@
-# -Numus
-Site de organização financeira com dashboard interativo, análise de gastos, metas e relatórios automáticos para ajudar você a economizar e controlar suas finanças.
+# NUMUS — Sistema de Controle Financeiro Inteligente
+
+Organize, visualize e transforme sua vida financeira com tecnologia e design.
+
+<div align="center"> <img src="./images/logo.png" width="160" alt="Logo NUMUS"> </div> <br>
